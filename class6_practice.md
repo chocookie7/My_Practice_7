@@ -5,14 +5,14 @@
 | 编号 |  WebBackend  |  WebBackend2  | 
 | ---- | ---- | ----- |
 1|spring-boot-starter-web|spring-boot-starter-web
-2|spring-boot-starter-data-jpa|
-3|spring-boot-devtools|
-4|mysql-connector-j|
-5|druid-spring-boot-starter|
-6|Lombok|
-7|spring-boot-starter-test|
-8|java-jwt|
-
+2|spring-boot-starter-data-jpa|spring-boot-starter
+3|spring-boot-devtools|spring-boot-devtools
+4|mysql-connector-j|mysql-connector-j
+5|druid-spring-boot-starter| 未配置数据源，spring会自动配置的
+6|Lombok|Lombok
+7|spring-boot-starter-test|spring-boot-starter-test
+8|java-jwt|java-jwt
+9| | junit
 
 1、
 2、mybatis-plus-boot-starter
@@ -22,7 +22,7 @@
 6、spring-boot-starter-test
 7、mybatis-spring-boot-starter-test
 8、java-jwt
-9、junit
+9、
 2. 分别截图项目WebBackend和WebBackend2的配置文件代码。
 【答】
 WebBackend的配置文件：
