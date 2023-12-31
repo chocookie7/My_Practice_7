@@ -15,7 +15,7 @@ spring-boot-starter-thymeleaf|开发者工具
 【答】
 > 可以，因为添加了`spring-boot-devtools`依赖。
  
-#### 3. 结合HomeController控制器及其index()的注解，说明为什么在运行项目启动文件后，访问http://127.0.0.1:8080能打开视图resources/templates/home/index.html？
+#### 3. 结合HomeController控制器及其index()的注解，说明为什么在运行项目启动文件后，访问`http://127.0.0.1:8080`能打开视图`resources/templates/home/index.html`？
 【答】
 > 可以，因为直接访问本地相当于访问主界面，其中主界面指的是项目的`index.html`
  
