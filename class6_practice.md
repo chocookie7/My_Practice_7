@@ -3,6 +3,7 @@
 1.   分别写出后端项目WebBackend和WebBackend2的pom依赖（只要求写artifactId名称，并分别顺序编号）。
 【答】
 | 编号 |  WebBackend  |  WebBackend2  | 
+| ---- | ---- | ----- |
 1|spring-boot-starter-web|spring-boot-starter-web
 2|spring-boot-starter-data-jpa|
 3|spring-boot-devtools|
